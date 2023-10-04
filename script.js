@@ -50,7 +50,7 @@ const cardsEl = [];
 },
 {
   question: 'image8',
-  answer: 'Anesthesiology:'
+  answer: 'Anesthesiology'
 },
 {
   question: 'image9',

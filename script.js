@@ -59,6 +59,10 @@ const cardsEl = [];
 {
   question: 'image10',
   answer: 'Dermatology'
+},
+{
+  question: 'image11',
+  answer: 'ENT'
 }
 
  ];
